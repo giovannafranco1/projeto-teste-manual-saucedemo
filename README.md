@@ -1,6 +1,6 @@
 # Projeto de Testes Manuais - Saucedemo
 
-Este repositório contém exemplos de casos de teste, relatórios de bugs e evidê>
+Este repositório contém exemplos de casos de teste, relatórios de bugs e evidências de teste para o site (https://www.saucedemo.com/).
 
 ## Estrutura do Projeto
 
@@ -12,6 +12,7 @@ Este repositório contém exemplos de casos de teste, relatórios de bugs e evid
 
 1. Navegue pelas pastas para ver os casos de teste e relatórios de bugs.
 2. Confira as evidências de teste na pasta `/evidencias`.
+
 
 ## Tecnologias Utilizadas
 
